@@ -1,4 +1,5 @@
 # Báo cáo nghiên cứu đầu tư: Tesla, Inc. (NASDAQ: TSLA)
+<!-- wiki: Tesla, Inc. -->
 
 **Ngày thực hiện**: 24/09/2026 | **Khung phân tích**: Buffett – Munger – Đoàn Vĩnh Bình – Lý Lộc
 **Giá tại thời điểm nghiên cứu**: 379,26 USD/CP (23/09/2026 — nguồn tổng hợp: StockAnalysis, Investing.com, Yahoo Finance)

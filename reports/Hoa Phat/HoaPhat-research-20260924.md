@@ -1,4 +1,5 @@
 # Báo cáo nghiên cứu đầu tư: CTCP Tập đoàn Hòa Phát (HOSE: HPG)
+<!-- wiki: Hoa Phat Group | Tập đoàn Hòa Phát -->
 
 **Ngày thực hiện**: 24/09/2026 | **Khung phân tích**: Buffett – Munger – Đoàn Vĩnh Bình – Lý Lộc
 **Giá tham chiếu**: 21.300 VND/CP (11/09/2026 — dữ liệu gần nhất tìm được, nguồn Simplize/Vietstock; **không có giá đóng cửa 23/09/2026**)

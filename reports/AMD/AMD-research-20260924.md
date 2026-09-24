@@ -1,4 +1,5 @@
 # Báo cáo nghiên cứu đầu tư: Advanced Micro Devices — AMD (NASDAQ: AMD)
+<!-- wiki: AMD | Advanced Micro Devices -->
 
 **Ngày thực hiện**: 24/09/2026 | **Khung phân tích**: Buffett – Munger – Đoàn Vĩnh Bình – Lý Lộc
 **Giá tại thời điểm nghiên cứu**: 623,77 USD/CP (đóng cửa 22/09/2026 — nguồn tổng hợp: CNBC, Yahoo Finance, Tech Insider)
